@@ -1,4 +1,4 @@
-#VoiceApp - Check news with voice assistant
+# VoiceApp - Check news with voice assistant
 
 https://adoring-montalcini-43d34f.netlify.app/
 

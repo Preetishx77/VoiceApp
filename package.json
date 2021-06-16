@@ -2,7 +2,7 @@
   "name": "voiceapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://preetishx77.github.io/VoiceApp",
+ 
   "dependencies": {
     "@alan-ai/alan-sdk-web": "^1.8.26",
     "@material-ui/core": "^4.11.4",
@@ -22,8 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+   
   },
   "eslintConfig": {
     "extends": [
@@ -42,9 +41,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^3.2.1"
   }
 }
 

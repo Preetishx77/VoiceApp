@@ -5,7 +5,7 @@ https://adoring-montalcini-43d34f.netlify.app/
 
 ## ALAN - AI 
 
-Alan is an advanced Voice AI Platform that allows you to add a voice interface to your app without overhead.Alan provides a complete serverless environment to build robust and reliable in-app voice assistants and chatbots. There is no need to create spoken language models, train the speech recognition software, deploy and host voice components — the Alan AI backend does the bulk of work. The voice experience for your app can be built and developed by a single developer, rather than a team of Machine Learning and Dev Ops experts.
+Alan is an advanced Voice AI Platform that allows you to add a voice interface to your app without overhead.Alan provides a complete serverless environment to build robust and reliable in-app voice assistants and chatbots. There is no need to create spoken language models, train the speech recognition software, deploy and host voice components -the Alan AI backend does the bulk of work. The voice experience for your app can be built and developed by a single developer, rather than a team of Machine Learning and Dev Ops experts.
 
 With Alan, you can go beyond the capabilities of touch and type interfaces and voice enable any complex workflow or function in your app. Voice scripts are written in JavaScript, which makes them highly customizable and flexible.
 
